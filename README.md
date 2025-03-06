@@ -7,7 +7,7 @@ This is a free lancing project where I made a dynamic website for managing inven
 
   
 ## Author
- Yadav Vishal
+ Yadav Vishal Jivan
 
   
 ## Contributing
